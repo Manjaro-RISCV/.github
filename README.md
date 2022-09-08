@@ -1,25 +1,27 @@
-# Here's Manjaro for RISC-V project! 
+# The Manjaro RISC-V Project
 
 <h1 align="center">
   <img src="https://avatars.githubusercontent.com/u/113010076?s=200&v=4" width="200">
   <br>Manjaro RISC-V<br>
 </h1>
 
-[中文文档](https://github.com/Manjaro-RISCV/.github/blob/main/README_zhcn.md)
+This is an unofficial project to bring Manjaro Linux to the RISC-V platform.
 
-## What is this?
+## Work Progress
 
-This is an **unofficial** project for the purpose of porting Manjaro to the RISC-V platform.
+Current working status: **Starting up** (Rootfs not prepared yet)
 
-## How to I install Manjaro to my RISC-V device?
+[Porting progess](https://github.com/Manjaro-RISCV/.github/blob/main/ROADMAP.md)
 
-Sorry, Manjaro for RISC-V is not available at present. We are now working in progress, maybe later you can enjoy manjaro on your RISC-V device.
+## Upstream
 
-## How can I get touch with members of the project?
+- [Manjaro Linux](https://gitlab.manjaro.org/)
+- [Arch Linux](https://archlinux.org/svn/)
+- [Arch Linux RISC-V](https://github.com/felixonmars/archriscv-packages)
 
-You can join the [telegram group](t.me/manjaro_rv_unofficial) here.
+## Contact and Contribute
 
-## How can I contribute to the project?
+- [telegram group](t.me/manjaro_rv_unofficial)
+- [Github](https://github.com/Manjaro-RISCV)
 
-Just open issues and PRs, or join the group to contact us. Any help would be greatly appreciated.
-
+Any help would be greatly appreciated.
