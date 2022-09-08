@@ -21,7 +21,7 @@ Current working status: **Starting up** (Rootfs not prepared yet)
 
 ## Contact and Contribute
 
-- [telegram group](t.me/manjaro_rv_unofficial)
+- [Telegram group](https://t.me/manjaro_rv_unofficial)
 - [Github](https://github.com/Manjaro-RISCV)
 
 Any help would be greatly appreciated.
