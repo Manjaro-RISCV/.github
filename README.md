@@ -11,7 +11,7 @@ This is an unofficial project to bring Manjaro Linux to the RISC-V platform.
 
 Current working status: **Starting up** (Rootfs not prepared yet)
 
-[Porting progess](https://github.com/Manjaro-RISCV/.github/blob/main/ROADMAP.md)
+[Porting progess](https://github.com/Manjaro-RISCV/.github/blob/main/MANJARO-PKG-LIST.csv)
 
 ## Upstream
 

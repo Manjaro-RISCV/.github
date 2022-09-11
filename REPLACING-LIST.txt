@@ -1,0 +1,20 @@
+#Here are packages where manjaro version replaces archlinux version
+#[core]
+base
+bash
+bashrc
+#bus-x11
+filesystem
+#grub
+linux
+#linux-firmware
+lsb-release
+#mkinitcpio
+pacman
+pacman-contrib
+pacman-mirrorlist
+#pacman-static
+systemd
+systemd-libs
+systemd-resolvconf
+systemd-sysvcompat
