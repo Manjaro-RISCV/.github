@@ -5,23 +5,21 @@
   <br>Manjaro RISC-V<br>
 </h1>
 
-This is an unofficial project to bring Manjaro Linux to the RISC-V platform.
+This was an **unofficial** project to bring Manjaro Linux to the RISC-V platform. Since Manjaro GmbH has shown their interest on RISC-V, please refer to <https://repo-riscv.manjaro.org/README>
 
-## Work Progress
+## Sources
 
-Current working status: **Starting up** (Rootfs not prepared yet)
+1. https://github.com/felixonmars/archriscv-packages
+1. https://gitlab.com/manjaro-riscv
 
-[Porting progess](https://github.com/Manjaro-RISCV/.github/blob/main/MANJARO-PKG-LIST.csv)
+## Bugs
 
-## Upstream
+<https://gitlab.com/manjaro-riscv/bug-tracker>
 
-- [Manjaro Linux](https://gitlab.manjaro.org/)
-- [Arch Linux](https://archlinux.org/svn/)
-- [Arch Linux RISC-V](https://github.com/felixonmars/archriscv-packages)
+## Mailing Lists
 
-## Contact and Contribute
+<https://lists.manjaro.org/pipermail/manjaro-packages/>
 
-- [Telegram group](https://t.me/manjaro_rv_unofficial)
-- [Github](https://github.com/Manjaro-RISCV)
+## Community
 
-Any help would be greatly appreciated.
+Telegram: <https://t.me/manjaro_rv_unofficial>
